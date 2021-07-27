@@ -1,2 +1,13 @@
-# Arduino-Project-Humidity-and-Temperature
-Collecting data of humidity and temperature with Arduino Uno, DHT11 module and wifi ESP8266 module.
+# Projeto de Arduino
+
+Leitura de Umidade e Temperatura utilizando Arduino Uno.
+
+### Materiais:
+* Arduino Uno.
+* Protoboard.
+* Modulo DHT11.
+* Modulo Wifi ESP8266.
+
+### Sketch:
+
+![Sketch](Circuit-Diagram.jpg)
