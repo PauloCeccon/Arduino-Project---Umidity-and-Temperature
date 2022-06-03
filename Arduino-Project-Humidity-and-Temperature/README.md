@@ -10,8 +10,8 @@ Leitura de Umidade e Temperatura utilizando Arduino Uno.
 
 ### Sketch:
 
-![Sketch](Circuit-Diagram.jpg)
+![Sketch](img/Circuit-Diagram.jpg)
 
 ### Resultado:
 
-![ThingSpeak](ThingSpeak.jpg)
+![ThingSpeak](img\ThingSpeak.jpg)
