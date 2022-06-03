@@ -14,4 +14,4 @@ Leitura de Umidade e Temperatura utilizando Arduino Uno.
 
 ### Resultado:
 
-![ThingSpeak](img\ThingSpeak.jpg)
+![ThingSpeak](img/ThingSpeak.jpg)
