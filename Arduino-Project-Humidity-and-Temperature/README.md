@@ -13,7 +13,7 @@
 with internet enabled devices. It facilitates data access, retrieval and logging of data 
 by providing an API to both the devices and social network websites.
 
-#Link: https://thingspeak.com/
+*Link:* https://thingspeak.com/
 
 ### Sketch:
 
