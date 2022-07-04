@@ -26,7 +26,7 @@
 ### Imagens:
 
 #### Montando a iluminação
-<img src="img/1.jpg" alt="drawing" width="100"/>
+<img src="img/1.jpg" alt="drawing" width="400"/>
 ![1](img/1.jpg)
 ![2](img/2.png)
 
