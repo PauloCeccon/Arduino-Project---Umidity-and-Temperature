@@ -24,15 +24,15 @@
 
 ### Imagens:
 
-* Montando a iluminação
+#### Montando a iluminação
 ![1](img/1.jpg)
 ![2](img/2.png)
 
-* Planta clicando em ambiente fechado
+#### Planta clicando em ambiente fechado
 ![3](img/3.jpg)
 ![4](img/4.jpg)
 
-* Planta em ambiente controlado (Temperatura, ventilação, iluminação e humidade).
+#### Planta em ambiente controlado (Temperatura, ventilação, iluminação e humidade).
 
 ![5](img/5.jpg)
 ![6](img/6.jpg)
