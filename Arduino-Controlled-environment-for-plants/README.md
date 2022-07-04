@@ -21,6 +21,7 @@
 
 ### Sketch:
 
+"Não disponível ainda"
 
 ### Imagens:
 
