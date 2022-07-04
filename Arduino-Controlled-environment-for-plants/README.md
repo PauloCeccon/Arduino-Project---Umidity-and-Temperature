@@ -27,15 +27,13 @@
 
 #### Montando a iluminação
 <img src="img/1.jpg" alt="drawing" width="400"/>
-![1](img/1.jpg)
-![2](img/2.png)
+<img src="img/2.png" alt="drawing" width="400"/>
 
 #### Planta clicando em ambiente fechado
-![3](img/3.jpg)
-![4](img/4.jpg)
+<img src="img/3.jpg" alt="drawing" width="400"/>
+<img src="img/4.jpg" alt="drawing" width="400"/>
 
 #### Planta em ambiente controlado (Temperatura, ventilação, iluminação e humidade).
-
-![5](img/5.jpeg)
-![6](img/6.jpg)
-![7](img/7.jpg)
+<img src="img/5.jpeg" alt="drawing" width="400"/>
+<img src="img/6.jpg" alt="drawing" width="400"/>
+<img src="img/7.jpg" alt="drawing" width="400"/>
