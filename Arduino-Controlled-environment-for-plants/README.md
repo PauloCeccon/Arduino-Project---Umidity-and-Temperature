@@ -34,6 +34,6 @@
 
 #### Planta em ambiente controlado (Temperatura, ventilação, iluminação e humidade).
 
-![5](img/5.jpg)
+![5](img/5.jpeg)
 ![6](img/6.jpg)
 ![7](img/7.jpg)
